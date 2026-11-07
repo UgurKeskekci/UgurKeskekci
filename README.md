@@ -15,13 +15,11 @@ repoyu Claude Code'a verin, "bu sistemi kur" deyin, gerisini o halletsin.
 
 ## Açık kitler
 
-| Repo | Ne yapar |
-| --- | --- |
-| [**kodla-animasyon-kit**](https://github.com/UgurKeskekci/kodla-animasyon-kit) | Görsel model olmadan, her karesi kodla çizilen kısa animasyonlar. Sahneyi anlatırsınız, Claude çizer ve MP4'e çevirir. |
-| [**kodla-tiktok-yayinci**](https://github.com/UgurKeskekci/kodla-tiktok-yayinci) | Slime yoğuran, yorumlara sesli cevap veren, kodla çizilmiş yayın karakteri. Menüden kendinizinkini yapın, TikTok canlı yayınına bağlayın. |
-| [**claude-video-kit**](https://github.com/UgurKeskekci/claude-video-kit) | Konuşma videolarını Claude Code ile kurgulamak için skill'ler: yatay kaba kurgu, dikey Reels, hareketli grafik. |
-| [**creator-hub-marketing**](https://github.com/UgurKeskekci/creator-hub-marketing) | Oyununuzu tanıtacak küçük YouTube kanallarını bulur, puanlar ve onlara mail atmanızı sağlar. |
-| [**image-generation-saas**](https://github.com/UgurKeskekci/image-generation-saas) | Görsel ve video üreten, kredili ve abonelikli tam bir SaaS örneği (React, Node.js, Supabase). |
+- **[kodla-animasyon-kit](https://github.com/UgurKeskekci/kodla-animasyon-kit)**: görsel model olmadan, her karesi kodla çizilen kısa animasyonlar. Sahneyi anlatırsınız, Claude çizer ve MP4'e çevirir.
+- **[kodla-tiktok-yayinci](https://github.com/UgurKeskekci/kodla-tiktok-yayinci)**: slime yoğuran, yorumlara sesli cevap veren, kodla çizilmiş yayın karakteri. Menüden kendinizinkini yapın, TikTok canlı yayınına bağlayın.
+- **[claude-video-kit](https://github.com/UgurKeskekci/claude-video-kit)**: konuşma videolarını Claude Code ile kurgulamak için skill'ler. Yatay kaba kurgu, dikey Reels, hareketli grafik.
+- **[creator-hub-marketing](https://github.com/UgurKeskekci/creator-hub-marketing)**: oyununuzu tanıtacak küçük YouTube kanallarını bulur, puanlar ve onlara mail atmanızı sağlar.
+- **[image-generation-saas](https://github.com/UgurKeskekci/image-generation-saas)**: görsel ve video üreten, kredili ve abonelikli tam bir SaaS örneği (React, Node.js, Supabase).
 
 ## Şu an üzerinde çalıştıklarım
 
