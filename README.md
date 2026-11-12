@@ -15,6 +15,7 @@ repoyu Claude Code'a verin, "bu sistemi kur" deyin, gerisini o halletsin.
 
 ## Açık kitler
 
+- **[claude-orkestra](https://github.com/UgurKeskekci/claude-orkestra)**: Claude Code'u yönetici yapın; video izleme ve uzun okuma Gemini'ye, çok dosyalı kod Codex'e gitsin, sonucu Claude denetlesin. Claude limitiniz ağır işte bitmesin.
 - **[yapay-zeka-ofisi](https://github.com/UgurKeskekci/yapay-zeka-ofisi)**: Hermes Agent ile 7/24 çalışan beş kişilik yapay zeka ekibi. Telegram'dan iş verirsiniz; araştırır, fiyat izler, kod düzeltir, takılınca işi Claude Code'a devreder. Adım adım kurulum ve hazır senaryolar.
 - **[kodla-animasyon-kit](https://github.com/UgurKeskekci/kodla-animasyon-kit)**: görsel model olmadan, her karesi kodla çizilen kısa animasyonlar. Sahneyi anlatırsınız, Claude çizer ve MP4'e çevirir.
 - **[kodla-tiktok-yayinci](https://github.com/UgurKeskekci/kodla-tiktok-yayinci)**: slime yoğuran, yorumlara sesli cevap veren, kodla çizilmiş yayın karakteri. Menüden kendinizinkini yapın, TikTok canlı yayınına bağlayın.
